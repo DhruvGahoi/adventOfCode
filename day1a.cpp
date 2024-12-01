@@ -6,6 +6,7 @@ int main (){
     int n;
     cin >> n;
     vector<int> arr1(n);
+    
     vector<int> arr2(n);
     
     for(int i = 0; i < n; i++){

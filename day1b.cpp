@@ -12,6 +12,7 @@ int main (){
     vector<int> arr2(n);
     unordered_map<int, int> freq;
     
+    
     for(int i = 0; i < n; i++){
         cin >> arr1[i];
         cin >> arr2[i];
